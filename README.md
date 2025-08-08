@@ -1,4 +1,4 @@
-# Intermediate SQL - Sales Analysis
+# Sales Analysis - SQL Intermediate
 
 ## Overview
 Analysis of customer behavior, retention, and lifetime value for an e-commerce company to improve customer retention and maximize revenue.
@@ -103,6 +103,6 @@ GROUP BY cohort_year;
    - Implement proactive intervention system for at-risk customers before they lapse
 
 ## Technical Details
-- **Database:** PostgreSQL
-- **Analysis Tools:** PostgreSQL, DBeaver, PGadmin
+- **Database:** MySQL, PostgreSQL
+- **Analysis Tools:** PostgreSQL, PGadmin, DBeaver
 - **Visualization:** ChatGPT
