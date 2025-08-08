@@ -19,7 +19,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 **📈 Visualization:**
 
-![1_customer_segementation.png](/images/1_customer_segementation.png)
+<img src="images/1_customer_segementation.png" alt="Customer Segmentation" style="width: 50%; height: auto;">
 
 
 📊 **Key Findings:**
